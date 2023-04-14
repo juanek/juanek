@@ -7,6 +7,7 @@
 - Java
 - Apache Wicket
 - Spring Framework
+- Guice
 - MyBatis
 - JUnit
 - MySQL
